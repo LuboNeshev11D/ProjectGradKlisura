@@ -1,0 +1,34 @@
+﻿body {
+    background-color:whitesmoke;
+}
+h1 {
+    color: royalblue;
+    border: dashed;
+    font: bold;
+    font-size: 35px;
+}
+p2 {
+    color-scheme: light;
+    color: cornflowerblue;
+    font-size: 25px;
+}
+p3 {
+    color-scheme: light;
+    color: cornflowerblue;
+    font-size: 25px
+}
+h2 {
+    font: bold;
+    color: azure;
+    font-size: 27.5px;
+    background-color: darkred;
+}
+table {
+    font-size: 20px;
+    background-color:azure;
+}
+a:link {
+    background-color: transparent;
+    text-decoration: none;
+}
+

@@ -1,0 +1,51 @@
+﻿body
+{
+    background-color:darkgray;
+}
+h1 {
+    color: red;
+    border: dashed;
+    font: bold;
+    font-size: 35px;
+}
+h2{
+    font:bold;
+    color:azure;
+    background-color:red;
+}
+h3{
+    font: bold;
+    color: azure;
+    background-color:red;
+    font-size: 25px;
+}
+ul {
+    display: inline-block;
+    text-align:left;
+    font-size: 20px;
+}
+p {
+    font-size: 20px;
+}
+p2{
+    color-scheme:light;
+    color:red;
+    font-size: 25px;
+}
+h4 {
+    font: bold;
+    color: azure;
+    background-color: red;
+    font-size: 25px;
+}
+a:link {
+    background-color: transparent;
+    text-decoration: none;
+}
+p4{
+    color:red;
+}
+krai {
+    text-align: center;
+}
+
